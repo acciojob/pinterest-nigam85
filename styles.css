@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+container{
+	display:flex;
+	justify-content:center;
+	align-item:center;
+	
+}
+.text {
+	
+	  font-size: 15px;
+	 float:right;
+	
+	
+}
+button{
+	color:white;
+	background-color:red;
+}
